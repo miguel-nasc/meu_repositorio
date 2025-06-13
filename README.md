@@ -17,4 +17,4 @@ Sistemas da Informação,
 UFPB
 
 # Banda Favorita
-Mastruz com leite
+Mastruz com Leite
